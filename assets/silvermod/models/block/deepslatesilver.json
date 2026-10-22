@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "silvermod:block/deepsilver",
+    "particle": "silvermod:block/deepsilver"
+  },
+  "render_type": "solid"
+}
