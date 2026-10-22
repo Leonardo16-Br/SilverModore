@@ -22,7 +22,9 @@ it's for Minecraft 1.21.1 and NeoForge
 >
 >*R:Yes, I plan to, but I'm just waiting until I have more time for it.*
 
-
 # License 
-
 It's basically free—it's under the MIT license—so you're free to use it, fork it, add it to a modpack... feel free. Or read LICENSE file
+
+<p align="left">
+  <img src="https://i.postimg.cc/43wrq7qr/d882ad85dd2514fed1aee6d0a46be5f6.png" alt="AntiAi" width="200">
+</p>
