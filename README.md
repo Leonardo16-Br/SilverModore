@@ -18,7 +18,7 @@ it's for Minecraft 1.21.1 and NeoForge
 >
 >*R:It’s very important that you report bugs, issues, tips, etc., here on GitHub. This is really important because, to be honest, this is my first mod. Note: I will NOT accept destructive criticism or people who think I work for them—this is entirely voluntary, and you’re being a dick*
 >
->**Q:Will there be a version for fabric/quilt and other versions?**[
+>**Q:Will there be a version for fabric/quilt and other versions?**
 >
 >*R:Yes, I plan to, but I'm just waiting until I have more time for it.*
 
